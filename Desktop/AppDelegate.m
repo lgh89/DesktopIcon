@@ -11,6 +11,8 @@
 #import "ControllerPushHelper.h"
 
 @interface AppDelegate ()
+//strong
+
 
 @end
 
